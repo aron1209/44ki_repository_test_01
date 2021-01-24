@@ -1,2 +1,2 @@
 test
-test2 kimotoshiori
+test2 shiorikimoto
